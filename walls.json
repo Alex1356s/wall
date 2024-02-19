@@ -1,14 +1,5 @@
 [
   {
-    "name": "Webp Image",
-    "author": "unknown",
-    "url": "https://www.gstatic.com/webp/gallery/4.webp",
-    "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-    "dimensions": "3200x2560",
-    "copyright": "Unknown",
-    "collections": "landscapes"
-  },
-  {
     "name": "Dark Night",
     "author": "Someone",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Dark%20Night.jpg",
