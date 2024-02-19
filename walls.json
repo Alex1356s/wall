@@ -1,62 +1,22 @@
 [
-  {
-    "name": "Dark Night",
-    "author": "Xela",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Dark%20Night.jpg",
-  },
-  {
-    "name": "Day Mountain Temp",
-    "author": "Xela",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Day%20Mountain%20Temp.jpeg",
-  },
-  {
-    "name": "Foggy City",
-    "author": "Xela",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Foggy%20City.png",
-  },
-  {
-    "author": "Xela",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Foggy%20Pixel%20Forest.jpeg",
-    "name": "Foggy Pixel Forest",
-  },
-  {
-    "name": "Green Pixel Forest",
-    "author": "Xela",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Green%20Pixel%20Forest.jpeg",
-  },
-  {
-    "name": "Mountain",
-    "author": "Xela",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Mountain.png",
-  },
-  {
-    "name": "Mountains",
-    "author": "Xela",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Mountains.png",
-  },
-  {
-    "name": "Night Foggy Forest",
-    "author": "Xela",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Foggy%20Forest.jpeg",
-  },
-  {
-    "name": "Night Temple",
-    "author": "Xela",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Temple.jpeg",
-  },
-  {
-    "name": "Night Top Temple",
-    "author": "Xela",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Top%20Temple.jpeg",
-  },
-  {
-    "name": "Outside City",
-    "author": "Xela",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Outside%20City.png",
-  },
-  {
-    "name": "Wide Mountains",
-    "author": "Xela",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Wide%20Mountains.png",
-  },
+	{
+		"name": "My wallpaper",
+		"author": "Jahir Fiquitiva",
+		"url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
+		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1280 x 720 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Jahir Fiquitiva",
+		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
+		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	}
 ]
