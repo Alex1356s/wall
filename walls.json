@@ -10,88 +10,84 @@
   {
     "name": "Day Mountain Temp",
     "author": "Someone",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Day%20Mountain%20Temp.jpg",
+    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Day%20Mountain%20Temp.jpeg",
     "collections": "featured,landscapes,people"
   },
   {
-    "name": "Foggy Pixel Forest",
+    "name": "Foggy City",
     "author": "Someone",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Foggy%20Pixel%20Forest.jpg",
+    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Foggy%20City.png",
     "dimensions": "3200x2560",
     "collections": "people,city",
     "downloadable": false
   },
   {
     "author": "Someone",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Green%20Pixel%20Forest.jpg",
-    "name": "Green Pixel Forest",
+    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Foggy%20Pixel%20Forest.jpeg",
+    "name": "Foggy Pixel Forest",
     "dimensions": "1280x720",
     "copyright": "Credits to its creator",
     "collections": "landscapes,city"
   },
   {
-    "name": "Night Foggy Forest",
+    "name": "Green Pixel Forest",
     "author": "wallsplash",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Foggy%20Forest.jpg",
+    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Green%20Pixel%20Forest.jpeg",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
     "collections": "featured,landscapes,people,city",
     "featured": true
   },
   {
-    "name": "Night Temple",
+    "name": "Mountain",
     "author": "wallsplash",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Temple.jpg",
+    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Mountain.png",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
     "collections": "featured,landscapes,people,food"
   },
   {
-    "name": "Night Top Temple",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Top%20Temple.jpg",
+    "name": "Mountains",
+    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Mountains.png",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
     "collections": "featured,food,people"
   },
   {
-    "name": "Boralis Pixel",
+    "name": "Night Foggy Forest",
     "author": "wallsplash",
-    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/borealis_pixel.jpg",
+    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Foggy%20Forest.jpeg",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
     "collections": "landscapes,people,city"
   },
   {
-    "name": "Wallsplash 5",
-    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+    "name": "Night Temple",
+    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Temple.jpeg",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
     "collections": "featured,landscapes"
   },
   {
-    "name": "Wallsplash 6",
+    "name": "Night Top Temple",
     "author": "wallsplash",
-    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
+    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Top%20Temple.jpeg",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
     "collections": "featured,people"
   },
   {
-    "name": "Wallsplash 7",
+    "name": "Outside City",
     "author": "wallsplash",
-    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-    "thumbnail": "https://via.placeholder.com/500",
+    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Outside%20City.png",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
     "collections": "landscapes,people"
   },
   {
-    "name": "Wallsplash 8",
+    "name": "Wide Mountains",
     "author": "wallsplash",
-    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-    "thumbnail": "https://via.placeholder.com/150",
+    "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Wide%20Mountains.png",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
     "collections": "food"
