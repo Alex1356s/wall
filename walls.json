@@ -15,131 +15,61 @@
     "name": "Foggy City",
     "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Foggy%20City.png",
-    "dimensions": "3200x2560",
-    "collections": "people,city",
-    "downloadable": false
+    "collections": "landscapes",
   },
   {
     "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Foggy%20Pixel%20Forest.jpeg",
     "name": "Foggy Pixel Forest",
-    "dimensions": "1280x720",
-    "copyright": "Credits to its creator",
-    "collections": "landscapes,city"
+    "collections": "landscapes"
   },
   {
     "name": "Green Pixel Forest",
     "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Green%20Pixel%20Forest.jpeg",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "featured,landscapes,people,city",
+    "collections": "landscapes",
     "featured": true
   },
   {
     "name": "Mountain",
     "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Mountain.png",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "featured,landscapes,people,food"
+    "collections": "landscapes"
   },
   {
     "name": "Mountains",
+    "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Mountains.png",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "featured,food,people"
+    "collections": "landscapes"
   },
   {
     "name": "Night Foggy Forest",
     "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Foggy%20Forest.jpeg",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "landscapes,people,city"
+    "collections": "landscapes"
   },
   {
     "name": "Night Temple",
+    "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Temple.jpeg",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "featured,landscapes"
+    "collections": "landscapes"
   },
   {
     "name": "Night Top Temple",
     "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Top%20Temple.jpeg",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "featured,people"
+    "collections": "landscapes"
   },
   {
     "name": "Outside City",
     "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Outside%20City.png",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "landscapes,people"
+    "collections": "landscapes"
   },
   {
     "name": "Wide Mountains",
     "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Wide%20Mountains.png",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "food"
-  },
-  {
-    "name": "Webp Image",
-    "author": "unknown",
-    "url": "https://www.gstatic.com/webp/gallery/4.webp",
-    "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-    "dimensions": "3200x2560",
-    "copyright": "Unknown",
     "collections": "landscapes"
   },
-  {
-    "name": "Halloween 1",
-    "author": "wallsplash",
-    "url": "https://images.unsplash.com/photo-1508361001413-7a9dca21d08a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=david-menidrey-MYRG0ptGh50-unsplash.jpg&w=640",
-    "thumbnail": "https://via.placeholder.com/150",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "halloween"
-  },
-  {
-    "name": "New Halloween",
-    "author": "wallsplash",
-    "url": "https://images.unsplash.com/photo-1592887714077-1c2ca9cdcf48?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=vino-li-W1py5swbJZY-unsplash.jpg&w=640",
-    "thumbnail": "https://via.placeholder.com/150",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "halloween, new year"
-  },
-  {
-    "name": "New Year",
-    "author": "wallsplash",
-    "url": "https://images.unsplash.com/photo-1546271876-af6caec5fae5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=andreas-dress-OUSa9MU4zZc-unsplash.jpg&w=640",
-    "thumbnail": "https://via.placeholder.com/150",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "new year, new"
-  },
-  {
-    "name": "Annie from Assets",
-    "author": "unsplash",
-    "url": "file:///android_asset/annie.jpg",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "assets"
-  },
-  {
-    "name": "Neom from Assets",
-    "author": "unsplash",
-    "url": "file:///android_asset/wallpapers/neom.jpg",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "assets"
-  }
 ]
