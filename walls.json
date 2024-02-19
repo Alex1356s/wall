@@ -1,7 +1,7 @@
 [
   {
     "name": "Dark Night",
-    "author": "unknown",
+    "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Dark%20Night.jpg",
     "dimensions": "3200x2560",
     "copyright": "Unknown",
@@ -9,20 +9,20 @@
   },
   {
     "name": "Day Mountain Temp",
-    "author": "Someone",
+    "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Day%20Mountain%20Temp.jpeg",
     "collections": "featured,landscapes,people"
   },
   {
     "name": "Foggy City",
-    "author": "Someone",
+    "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Foggy%20City.png",
     "dimensions": "3200x2560",
     "collections": "people,city",
     "downloadable": false
   },
   {
-    "author": "Someone",
+    "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Foggy%20Pixel%20Forest.jpeg",
     "name": "Foggy Pixel Forest",
     "dimensions": "1280x720",
@@ -31,7 +31,7 @@
   },
   {
     "name": "Green Pixel Forest",
-    "author": "wallsplash",
+    "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Green%20Pixel%20Forest.jpeg",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
@@ -40,7 +40,7 @@
   },
   {
     "name": "Mountain",
-    "author": "wallsplash",
+    "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Mountain.png",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Night Foggy Forest",
-    "author": "wallsplash",
+    "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Foggy%20Forest.jpeg",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
@@ -70,7 +70,7 @@
   },
   {
     "name": "Night Top Temple",
-    "author": "wallsplash",
+    "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Night%20Top%20Temple.jpeg",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
@@ -78,7 +78,7 @@
   },
   {
     "name": "Outside City",
-    "author": "wallsplash",
+    "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Outside%20City.png",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
@@ -86,7 +86,7 @@
   },
   {
     "name": "Wide Mountains",
-    "author": "wallsplash",
+    "author": "Xela",
     "url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Wide%20Mountains.png",
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
