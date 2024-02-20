@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Dark Night",
-		"author": "Jahir Fiquitiva",
+		"author": "Xela",
 		"url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Dark%20Night.jpg",
 		"collections": "Landscapes,Art,Material Design",
 		"downloadable": true,
@@ -9,8 +9,16 @@
 	},
 	{
 		"name": "Day Mountain Temp",
-		"author": "Jahir Fiquitiva",
+		"author": "Xela",
 		"url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Day%20Mountain%20Temp.jpeg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	}
+	{
+		"name": "Foggy City",
+		"author": "Xela",
+		"url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Foggy%20City.png",
 		"collections": "Landscapes,Art,Material Design",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
