@@ -21,8 +21,10 @@
 		"name": "Foggy City",
 		"author": "xela",
 		"url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Foggy%20City.png",
-		"collections": "Landscapes,Art,Material Design",
+		"collections": "GRADIENT|ABSTRACT",
 		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1280 x 720 px",
 		"copyright": "CreativeCommons Attribution-ShareALike"
-	}
+	},
 ]
