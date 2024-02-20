@@ -1,22 +1,18 @@
 [
 	{
-		"name": "My wallpaper",
+		"name": "Dark Night",
 		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
-		"collections": "GRADIENT|ABSTRACT",
+		"url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Dark%20Night.jpg",
+		"collections": "Landscapes,Art,Material Design",
 		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1280 x 720 px",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
 	{
-		"name": "My other wallpaper",
+		"name": "Day Mountain Temp",
 		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
+		"url": "https://raw.githubusercontent.com/Alex1356s/wall/main/Day%20Mountain%20Temp.jpeg",
 		"collections": "Landscapes,Art,Material Design",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	}
 ]
